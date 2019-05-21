@@ -1,0 +1,6 @@
+objects\StockService.class
+config\JacksonObjectMapperConfig.class
+config\SpringConfig.class
+config\JerseyConfig.class
+objectify\ObjectifyWebFilter.class
+objects\Book.class
